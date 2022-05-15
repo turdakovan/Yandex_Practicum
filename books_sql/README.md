@@ -1,6 +1,6 @@
 # Проект по SQL
 Задача — проанализировать базу данных. В ней — информация о книгах, издательствах, авторах, а также пользовательские обзоры книг. Эти данные помогут сформулировать ценностное предложение для нового продукта.
 
-[Схема БД](https://github.com/turdakovan/Yandex_Practicum/blob/main/books_sql/db_scheme.png) Описание БД представлено в проекте.
+[Схема БД.](https://github.com/turdakovan/Yandex_Practicum/blob/main/books_sql/db_scheme.png) Описание БД представлено в проекте.
 ## Используемые библиотеки
 *pandas*, *sqlalchemy*
