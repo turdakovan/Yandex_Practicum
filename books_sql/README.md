@@ -3,5 +3,6 @@
 
 Описание БД представлено в проекте
 
+[Схема БД](https://github.com/turdakovan/Yandex_Practicum/blob/main/books_sql/db_scheme.png)
 ## Используемые библиотеки
 *pandas*, *sqlalchemy*
